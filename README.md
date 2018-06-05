@@ -2,19 +2,14 @@
 Starter pack for js project with webpack. Actually using Babel's preset-env. More coming soon..
 
 ## Content
->
-> Babel's preset-env
->
->
+- Babel's preset-env
 
 ## Coming soon
->
-> Minify css
-> Server
-> Unit tests
-> Fonctionnal tests
-> more..
->
+- Minify css
+- Server
+- Unit tests
+- Fonctionnal tests
+- more..
 
 ## install
 ```bash
