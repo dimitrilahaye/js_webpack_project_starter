@@ -5,10 +5,10 @@ Starter pack for js project with webpack. Actually using Babel's preset-env. Mor
 - Babel's preset-env
 
 ## Coming soon
-- Minify css
-- Server
-- Unit tests
-- Fonctionnal tests
+- [Server](https://github.com/webpack/webpack-dev-server)
+- [JS Lint](https://github.com/webpack-contrib/eslint-loader)
+- [CSS Lint](https://github.com/webpack-contrib/stylelint-webpack-plugin)
+- [Minify css](https://github.com/webpack-contrib/css-loader)
 - more..
 
 ## install
